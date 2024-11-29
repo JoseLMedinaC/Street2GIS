@@ -15,4 +15,6 @@ Street2GIS/
 │      ├── test/
 │      └── train/
 ├── utils/
+├── train.py
+├── test.py
 └── README.md
