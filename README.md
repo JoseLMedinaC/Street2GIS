@@ -21,7 +21,7 @@ Street2GIS/
 ```
 ## Framework Results
 
-Figure 1: Results after applying the framework (a) Street View, (b) Street and Sidewalk, and (c) Vegetation and Building.
+Figure 1: Results after applying the framework (a) Street View, (b) Street and Sidewalk, (c) Vegetation and Building, and (d) GIS elements.
 
 ![Framework results](results/appendix.png)
 
