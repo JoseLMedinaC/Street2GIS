@@ -18,6 +18,7 @@ Street2GIS/
 ├── train.py
 ├── test.py
 └── README.md
+```
 ## Framework Results
 
 Figure 1: Results after applying the framework (a) Street View, (b) Street and Sidewalk, and (c) Vegetation and Building.
