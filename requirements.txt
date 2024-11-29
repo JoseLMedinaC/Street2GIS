@@ -1,0 +1,6 @@
+torch==2.0.1
+torchvision
+dominate==2.7.0
+visdom==0.2.4
+einops==0.3.0
+scikit-image==0.19.3
